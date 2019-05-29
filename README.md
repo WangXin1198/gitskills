@@ -1,2 +1,3 @@
 # gitskills
-clone from remote repository
+*描述：clone from remote repository*
+
